@@ -1,0 +1,46 @@
+body{
+    background-color: #17181E;
+}
+
+#title{
+    text-align: center;
+    color: white;
+}
+.temporizador{
+    margin:15vh 0;
+    color:white;
+    text-align: center;
+}
+
+#timeInput{
+    border: 2px solid black;
+    display: inline-block;
+    margin:20px auto 0 auto;
+    
+    height: 2rem;
+    font-weight: 500;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    text-align: center;
+}
+
+label{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+button{
+    display: block;
+    margin: 8% auto;
+    padding: 23px;
+    font-size: 1.6rem;
+    color:white;
+    background-color:red;
+    border-radius:20px;
+}
+
+#time{
+    color:white;
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
